@@ -170,6 +170,9 @@ width: 90vw;
     display: flex;
     flex-direction: column;
 }
+.hr{
+    font-size: 2em;
+}
 .f:hover{
     background-color: rgba(77, 97, 187, 0.8);
 }
